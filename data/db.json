@@ -1,0 +1,24 @@
+{
+    "login": [
+      {
+        "id": 1,
+        "usernamer": "cashiser",
+        "password": "cashier"
+      },
+      {
+        "id": 2,
+        "usernamer": "stock-manager",
+        "password": "stock-manager"
+      }
+    ],
+    "store": [
+        {
+            "id": 1,
+            "productName": "Sardine Bread", 
+            "category": "Bread",
+            "quatity": 34, 
+            "discount": 10,
+            "price": 350
+          }
+    ]
+  }
